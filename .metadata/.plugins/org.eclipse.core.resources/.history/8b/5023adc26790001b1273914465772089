@@ -1,0 +1,30 @@
+package com.javalec.base;
+
+public class Variable_01 {
+	
+	public static void main(String[] args) {
+		// 변수 (Variable)
+
+		// 문자열 변수 선언
+		String str = "Hello World!"; // " = " 는 할당 연산자 이다.
+		System.out.println(str); // "Hello World!" 출력
+		
+		str = "New";
+		System.out.println(str); // "New" 출력 
+		
+		// 정수 변수 선언
+		int num1 = 10;
+		int num2 = 20;
+		int plusResult; // 변수 이름은 결과를 알 수 있게 잘 정한다. (좋은 예시 : camel 기법)
+						// 선언은 위에서 해주는 습관을 들이자.
+		
+		System.out.println(num1 + num2);
+		System.out.println(num1 * num2);
+		System.out.println(num1 / num2); // 정수형 이므로 0.5 대신 0 출력 
+		System.out.println((double)num1 / num2); // 실수형 출력 
+		System.out.println((double)(num1 / num2)); // 잘못 된 예시  
+		
+		plusResult = num1 + num2;
+		System.out.println(plusResult);
+	}
+}

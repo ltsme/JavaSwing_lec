@@ -1,0 +1,22 @@
+package com.javalec.base;
+
+public class Variable_01 {
+	
+	public static void main(String[] args) {
+		// 변수 (Variable)
+
+		// 문자열 변수 선언
+		String str = "Hello World!"; // " = " 는 할당 연산자 이다.
+		System.out.println(str); // "Hello World!" 출력
+		
+		str = "New";
+		System.out.println(str); // "New" 출력 
+		
+		// 정수 변수 선언
+		int num1 = 10;
+		int num2 = 20;
+		System.out.println(num1 + num2);
+		
+		
+	}
+}

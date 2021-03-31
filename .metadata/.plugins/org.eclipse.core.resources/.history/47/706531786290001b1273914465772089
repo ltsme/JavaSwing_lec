@@ -1,0 +1,14 @@
+package com.javalec.base;
+
+public class Variable_01 {
+	
+	public static void main(String[] args) {
+		// 변수 (Variable)
+
+		// 문자열 변수 선언
+		String str = "Hello World";
+		
+		
+		
+	}
+}

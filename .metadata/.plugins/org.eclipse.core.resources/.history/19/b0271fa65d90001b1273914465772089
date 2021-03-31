@@ -1,0 +1,43 @@
+package com.javalec.base;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		 // 슬래쉬(/) 두 개 
+//		cmd(윈도우 키) + /
+		
+		/*
+		 * 
+		 * 여러 줄 코멘트 달고 싶을 때
+		 * 
+		 */
+		
+		/* --------------------------
+		 * 아래의 기능은 ~~~ 하는 기능입니다. (코멘트 예시)
+		 * --------------------------
+		 * 코멘트를 적지 않은 코드는 좋지 않다.(포트폴리오 제출 시 참고 할 )
+		 */
+		
+		
+		System.out.println("-------------");
+		System.out.println("Hello, World!");
+		System.out.println("Hello, World!");
+		System.out.println("Hello, World!");
+		System.out.println("-------------");
+		
+		
+		// cmd + alt + 아래키 : 코드 복사 
+		// cmd + d : 현재 줄 제거 
+		// syso + cmd + space : println 메소드 자동 출력 
+		// alt + 위(아래) 방향키 : 코드 위(아래) 이동
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
