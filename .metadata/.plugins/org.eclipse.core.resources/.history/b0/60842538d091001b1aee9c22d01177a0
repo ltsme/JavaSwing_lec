@@ -22,7 +22,8 @@ public class MainClass {
 		} while(score < 0 || score > 100);  // 음수 또는 100점 초과 입력 시, 다시 입력을 받는다.
 		
 		
-			switch(score/10) { // 점수 분별을 위한 switch 사용
+		if(score > 0 ) { // 점수 분별을 위한 switch 사용
+			switch(score/10) {
 			case 10 :
 				grade = "A+ ";
 				break;
@@ -42,12 +43,12 @@ public class MainClass {
 				grade = "F ";
 				break;			
 			}					
+		}
 		
 				
 		// 결과 보여주기		
 		System.out.println("----------------------");		
 		System.out.println("당신의 학점은 " + grade + "등급 입니다.");		
 		System.out.println("----------------------");
-		
 	}
 }
