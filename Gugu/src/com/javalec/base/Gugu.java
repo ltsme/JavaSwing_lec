@@ -28,14 +28,13 @@ public class Gugu {
 //		.
 		
 		
-		
 //		
 //		//Exercise2
 //		//짝수 결과만 나오는 구구단 출력하기
 //		System.out.print("구구단을 입력해 주세요 : ");
 //		dan = sc.nextInt();
 //			
-//		for(int i=1; i<=9; i++) {
+//		for(int i=1; i<=9; i+=2) {
 //			
 //			switch(i%2) {
 //				case 0 : System.out.println(dan + " X " + i + " = " + dan*i);
