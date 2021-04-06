@@ -23,7 +23,6 @@ public class Main {
 			histo[score[i] / 10]++; // 배열의 인자로 계산식(score[i]/10 ; 0~9를 받는다.)
 		}
 		
-		
 		System.out.println("----------Histogram----------"); // 3단계 (히스토그램; 빈도수)
 		
 		
