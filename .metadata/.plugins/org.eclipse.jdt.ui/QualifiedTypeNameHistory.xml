@@ -20,5 +20,7 @@
     <fullyQualifiedTypeName name="com.javalec.base.Random"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.javalec.function.SumEvenOdd2"/>
     <fullyQualifiedTypeName name="com.javalec.function.SumEvenOdd"/>
+    <fullyQualifiedTypeName name="sun.tools.serialver.resources.serialver"/>
 </qualifiedTypeNameHistroy>
