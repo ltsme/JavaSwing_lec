@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;com.javalec.base.Switch.java&apos; to &apos;MainClass.java&apos;&#x0A;- Original project: &apos;if_Project&apos;&#x0A;- Original element: &apos;com.javalec.base.Switch.java&apos;&#x0A;- Renamed element: &apos;com.javalec.base.MainClass.java&apos;" description="Rename compilation unit &apos;Switch.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.javalec.base{Switch.java" name="MainClass.java" references="false" stamp="1617158328962" version="1.0"/>
-</session>
