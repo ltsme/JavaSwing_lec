@@ -36,7 +36,6 @@
     <fullyQualifiedTypeName name="com.javalec.base.Shop2"/>
     <fullyQualifiedTypeName name="com.javalec.base.Shop3"/>
     <fullyQualifiedTypeName name="com.javalec.base.Main"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.javalec.base.ThrowsClass"/>
     <fullyQualifiedTypeName name="com.javalec.base.FirstSon"/>
     <fullyQualifiedTypeName name="com.javalec.base.SecondSon"/>
@@ -49,4 +48,10 @@
     <fullyQualifiedTypeName name="com.javalec.base.Child1"/>
     <fullyQualifiedTypeName name="com.javalec.base.Child2"/>
     <fullyQualifiedTypeName name="com.javalec.base.Child3"/>
+    <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="javax.swing.DefaultComboBoxModel"/>
+    <fullyQualifiedTypeName name="javax.swing.JCheckBox"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
